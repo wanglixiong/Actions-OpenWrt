@@ -13,7 +13,7 @@ Build OpenWrt using GitHub Actions
 ## Usage
 固件适用arm64，包括N1、章鱼星球等
 
-基本包括了常用的所以插件
+基本包括了常用的所有插件
 - Sign up for [GitHub Actions](https://github.com/features/actions/signup)
 - Fork [this GitHub repository](https://github.com/P3TERX/Actions-OpenWrt)
 - Generate `.config` files using [Lean's OpenWrt](https://github.com/coolsnowwolf/lede) source code.
